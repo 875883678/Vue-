@@ -1,5 +1,5 @@
 <template>
-  <router-view></router-view>
+  <h1>最是人间留不住，朱颜辞镜花辞书</h1>
 </template>
 
 <script>
